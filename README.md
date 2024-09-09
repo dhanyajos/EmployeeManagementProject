@@ -1,6 +1,8 @@
 Employee Management APIs 
 
-An Auth API is used to generate a bearer token. To obtain the bearer token, users must provide a username and password. 
+An Auth API is used to generate a bearer token.
+(https://localhost:7239/api/Auth/authenticate)
+To obtain the bearer token, users must provide a username and password. 
 
 The token includes role information, specifying either 'admin' or 'user.'
 
